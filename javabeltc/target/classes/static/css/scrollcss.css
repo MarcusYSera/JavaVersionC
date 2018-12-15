@@ -1,0 +1,24 @@
+.table-wrapper-scroll-y {
+    display: block;
+    max-height: 200px;
+    overflow-y: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    }
+.one h3{
+    display:inline;
+}
+.one a{
+    float:right;
+    margin-right:30px;
+}
+
+.welcome h1{
+    display:inline;
+}
+.welcome a{
+    float:right;
+    margin-right:30px;
+}
+body{
+    padding:40px;
+}

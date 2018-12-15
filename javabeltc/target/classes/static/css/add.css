@@ -1,0 +1,22 @@
+.ideaCreation{
+    margin:50px;
+    display:inline-block;
+}
+
+.ideaCreation h1{
+/* margin:0%; */
+}
+.ideaCreation a{
+
+}
+.ideaCreation form{
+    margin-top:20px;
+}
+.ideaCreation input{
+    float:right;
+}
+.ideaCreation button{
+    background-color: grey;
+    border-radius: 10px;
+    float:right;
+}
